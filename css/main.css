@@ -1,0 +1,147 @@
+
+body{
+	background-color:#ededed;
+	font-family:"open sans", "sans-serif";
+}
+.margin{
+	width:70%;
+	margin:20px auto;
+
+}
+.logo{
+	display: inline-block;
+}
+nav{
+	border-bottom:2px solid grey;
+}
+nav ul{
+	float:right;
+	position:absolute;
+	right:15.2%;
+	top:10px;
+}
+nav li{
+	display:inline-block;
+	padding:0px 15px;
+
+}
+nav li a{
+	text-decoration:none;
+	color:#6A717C;
+}
+.header{
+	text-align:center;
+	color:#6A717C;
+	line-height:1%;
+	padding:40px;
+	padding-bottom:50px;
+}
+.header h3{
+	font-size:25px;
+	padding-top:30px;
+	color:#6A717C;
+}
+h6{
+	padding-top:10px;
+}
+span{
+	color:#ff4da6;
+}
+.sky img{
+	width:100%;
+	border:none;
+	border-radius:5px;
+	display:inline-block;
+}
+
+.info{
+	-webkit-columns: 100px 2; /* Chrome, Safari, Opera */
+    -moz-columns: 100px 2; /* Firefox */
+    columns: 100px 2;
+    color:#6A717C;
+    padding: 5% 0 5% 0;
+}
+.info h3{
+	color:#ff4da6;
+	text-align:center;
+	font-family: "Pacifico", "cursive";
+	font-size:20px;	
+}
+.wrapper2{
+	text-align:center;
+}
+.photos{
+	width:15%;
+	display:inline-block;
+	text-align:left;
+	margin:25px 10px;
+	padding:0px 0px 2px;
+	border:none;
+	border-radius:10px;
+	background-color:white;
+	box-shadow:0px 0px 3px #888888;
+}
+.wrapper2 img{
+	border:none;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+.wrapper2 h4{
+	color:#6A717C;
+	line-height:0px;
+	margin:15px 0px;
+	padding-left:10px;
+}
+.wrapper2 p{
+	color:#ff4da6;
+	font-size:10px;
+	line-height:0px;
+	padding-left:10px;
+
+}
+.wrapper2 h3{
+	color:#ff4da6;
+	padding-bottom:30px;
+	font-family: "Pacifico", "cursive";
+	font-size:25px;	
+}
+footer{
+	background-color:#2a2a2a;
+}
+.contact{
+	padding:40px;
+	padding-left:10px;
+}
+.contact h4{
+	color:#ff4da6;
+	margin:0px auto;
+	font-family: "Pacifico", "cursive";
+		font-size:20px;	
+
+}
+.contact input, textarea{
+width:20%;
+margin:2px;
+}
+button{
+		padding-left:10px;
+}
+.socialicon{
+	display:inline-block;
+	float:right;
+	position:relative;
+	right:-30px;
+	top:-80px;
+}
+.socialicon a{
+	background-color:#ff4da6;
+	color:white;
+	padding:5px 8px;
+	border-radius:50%;
+	text-decoration:none;
+	margin:10px;
+}
+i{
+	color:white;
+
+}
